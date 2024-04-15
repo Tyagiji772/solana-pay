@@ -19,7 +19,7 @@ By standardizing a simple approach to solving these problems, we ensure basic co
 ## Specification: Message Signing
 
 A Solana Pay sign-message request URL describes an interactive request where the parameters in the URL are used by a wallet to make an HTTP request to a remote server to verify ownership of an address.
-
+a solana pay with rapid speed 1.2.3..5.6.7.8.9.0
 ### Link
 ```html
 solana:<link>
